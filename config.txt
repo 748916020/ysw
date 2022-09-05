@@ -14,6 +14,8 @@
 "weather_key": "0b58794e8f4f448aad6e54bd8f77c8ca",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
 "region": "商丘",
+最低气温: {{min_temperature.DATA}} 
+最高气温: {{max_temperature.DATA}} 
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
 "birthday1": {"name": "杨舒雯", "birthday": "r2000-03-26"},
 # 生日2
