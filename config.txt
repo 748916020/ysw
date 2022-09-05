@@ -5,17 +5,16 @@
 # 公众号appSecret
 "app_secret": "02a55e886ac95831163da2e7c04be684",
 # 模板消息id
-"template_id": "SuB10USnInekR2jOjUBWvyAK8vCJ5b2TzK8A7yxaUlQ",
+"MMpxySBRoKJ3lHVgtZROP6gpiC62DYU64M0oi3RDZ2c",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["oFOi76buE26TccXa-6iu4DGHaCJk","oFOi76etgTwhbnemmOrkKR24QJQo"],
+"user": ["oFOi76buE26TccXa-6iu4DGHaCJk"],
  
 # 信息配置
 # 和风天气apikey
 "weather_key": "0b58794e8f4f448aad6e54bd8f77c8ca",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
-"region": "商丘",
-最低气温: {{min_temperature.DATA}} 
-最高气温: {{max_temperature.DATA}} 
+"region": "河南，商丘，宁陵",
+
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
 "birthday1": {"name": "杨舒雯", "birthday": "r2000-03-26"},
 # 生日2
